@@ -1,0 +1,2100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510155731HQ0JQV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605101557315BQPC4</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Viajamos al Barroco musical</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Descubre la música de esta época</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Sara Varela Prados</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta SdA, el alumnado tendrá que buscar información sobre algunas características de la música en el Barroco, tendrá que hacer dos proyectos en grupo, y tendrá que interpretar con la flauta una obra de esta época.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778420544809</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mozmzmkw-airyi6s9y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Viajamos al Barroco Musical</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Viajamos al Barroco Musical</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Viajamos al Barroco Musical</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Viajamos al Barroco Musical</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozmzmkw-airyi6s9y</odePageId>
+      <odeBlockId>block-1778341090981-ve6zq3os9</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmkw-airyi6s9y</odePageId>
+          <odeBlockId>block-1778341090981-ve6zq3os9</odeBlockId>
+          <odeIdeviceId>idevice-1778341090978-884coppxa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Título del proyecto:</strong> Viajamos al Barroco</p>
+<p style="text-align: justify;"><strong>Objetivo:</strong> adentrarnos en la música del Barroco, a través de diferentes actividades y proyectos que nos permiten trabajar de una manera más práctica y motivadora, y que favorecen el desarrollo de la competencia cultural y artística, la competencia digital, la competencia lingüística y la competencia personal y social.</p>
+<p><strong>Materia: </strong>Música</p>
+<p><strong>Curso:</strong> 2º ESO</p>
+<p><strong>Temporalización aproximada:</strong> 7 sesiones</p>
+<p><strong>Idioma:</strong> castellano</p>
+<figure class="exe-figure position-center" style="width: 602px;"><img src="{{context_path}}/content/resources/músicos barrocos.png" title="Concierto Barroco en sala palaciega" width="602" height="482" alt="Músicos tocando en un palacio" />
+<figcaption class="figcaption"><a href="https://chatgpt.com/backend-api/estuary/content?id=file_0000000022ec720abc248380de597ce5&ts=493983&p=fs&cid=1&sig=f5d711fdf1a45c9f40a34d9319d5e55cbc9790f3c7d95f20c42d2dec5c352ca9&v=0" class="author" target="_blank" rel="noopener">OpenAI (vía ChatGPT 2026)</a>. <span class="title"><em>Imagen generada por OpenAI mediante ChatGPT, 2026</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Sin restricciones conocidas</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778341090978-884coppxa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título del proyecto:</strong> Viajamos al Barroco</p>\n<p style=\"text-align: justify;\"><strong>Objetivo:</strong> adentrarnos en la música del Barroco, a través de diferentes actividades y proyectos que nos permiten trabajar de una manera más práctica y motivadora, y que favorecen el desarrollo de la competencia cultural y artística, la competencia digital, la competencia lingüística y la competencia personal y social.</p>\n<p><strong>Materia: </strong>Música</p>\n<p><strong>Curso:</strong> 2º ESO</p>\n<p><strong>Temporalización aproximada:</strong> 7 sesiones</p>\n<p><strong>Idioma:</strong> castellano</p>\n<figure class=\"exe-figure position-center\" style=\"width: 602px;\"><img src=\"{{context_path}}/content/resources/músicos barrocos.png\" title=\"Concierto Barroco en sala palaciega\" width=\"602\" height=\"482\" alt=\"Músicos tocando en un palacio\" />\n<figcaption class=\"figcaption\"><a href=\"https://chatgpt.com/backend-api/estuary/content?id=file_0000000022ec720abc248380de597ce5&ts=493983&p=fs&cid=1&sig=f5d711fdf1a45c9f40a34d9319d5e55cbc9790f3c7d95f20c42d2dec5c352ca9&v=0\" class=\"author\" target=\"_blank\" rel=\"noopener\">OpenAI (vía ChatGPT 2026)</a>. <span class=\"title\"><em>Imagen generada por OpenAI mediante ChatGPT, 2026</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Sin restricciones conocidas</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozmzml1-9tht2ubl1</odePageId>
+  <odeParentPageId>page-mozmzmkw-airyi6s9y</odeParentPageId>
+  <pageName>1. Nuestro proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Nuestro proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozmzml1-9tht2ubl1</odePageId>
+      <odeBlockId>block-1778351011324-cc66dljhl</odeBlockId>
+      <blockName>Retos a conseguir</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzml1-9tht2ubl1</odePageId>
+          <odeBlockId>block-1778351011324-cc66dljhl</odeBlockId>
+          <odeIdeviceId>idevice-1778351011315-h06t0f1ij</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La misión será:</p>
+<ol>
+<li style="text-align: justify;">Crear un cartel interactivo sobre el Barroco musical con un podcast y un código QR para compartirlo con el resto de vuestros compañeros.</li>
+<li>Interpretar una pieza de música barroca.</li>
+</ol>
+<p><br /></p>
+<figure class="exe-figure position-center" style="width: 400px;"><img src="{{context_path}}/content/resources/ChatGPT Image 10 may 2026, 02_40_40.png" title="Camino hacia el tesoro musical" width="400" height="267" alt="Retos de mi proyecto" />
+<figcaption class="figcaption"><span class="author">OpenAI (chatGPT 2026)</span>. <span class="title"><em>Camino hacia un tesoro musical</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Sin restricciones conocidas</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778351011315-h06t0f1ij","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La misión será:</p>\n<ol>\n<li style=\"text-align: justify;\">Crear un cartel interactivo sobre el Barroco musical con un podcast y un código QR para compartirlo con el resto de vuestros compañeros.</li>\n<li>Interpretar una pieza de música barroca.</li>\n</ol>\n<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 400px;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 10 may 2026, 02_40_40.png\" title=\"Camino hacia el tesoro musical\" width=\"400\" height=\"267\" alt=\"Retos de mi proyecto\" />\n<figcaption class=\"figcaption\"><span class=\"author\">OpenAI (chatGPT 2026)</span>. <span class=\"title\"><em>Camino hacia un tesoro musical</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Sin restricciones conocidas</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzml1-9tht2ubl1</odePageId>
+      <odeBlockId>block-1778357457269-6d1ylato1</odeBlockId>
+      <blockName>¿Qué se pretende conseguir con este proyecto?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzml1-9tht2ubl1</odePageId>
+          <odeBlockId>block-1778357457269-6d1ylato1</odeBlockId>
+          <odeIdeviceId>idevice-1778357457266-r2r1q9tnl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Que el alumnado trabaje las características generales de la música barroca, los instrumentos musicales, compositores y audiciones de este periodo, el contexto histórico, la búsqueda de información, la creación de contenido digital, la comunicación oral, el trabajo cooperativo, la escucha activa y la interpretación musical.</p>
+<p style="text-align: justify;">Por un lado, el producto final permitirá transformar el aprendizaje teórico en una creación visual y digital, que se expondrá en un padlet compartido al finalizar todas las partes del proyecto. Por último, la práctica instrumental con la flauta servirá de experiencia final para acercarse de manera vivencial a la música barroca tras investigarla y crear el producto final.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778357457266-r2r1q9tnl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Que el alumnado trabaje las características generales de la música barroca, los instrumentos musicales, compositores y audiciones de este periodo, el contexto histórico, la búsqueda de información, la creación de contenido digital, la comunicación oral, el trabajo cooperativo, la escucha activa y la interpretación musical.</p>\n<p style=\"text-align: justify;\">Por un lado, el producto final permitirá transformar el aprendizaje teórico en una creación visual y digital, que se expondrá en un padlet compartido al finalizar todas las partes del proyecto. Por último, la práctica instrumental con la flauta servirá de experiencia final para acercarse de manera vivencial a la música barroca tras investigarla y crear el producto final.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzml1-9tht2ubl1</odePageId>
+      <odeBlockId>block-1778356975814-wp4l1eaxa</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzml1-9tht2ubl1</odePageId>
+          <odeBlockId>block-1778356975814-wp4l1eaxa</odeBlockId>
+          <odeIdeviceId>idevice-1778356975812-le8ijzmm1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJM0GYwVs/BZc3mhQgivt4dl6gvyMZ-w/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHJM0GYwVs/BZc3mhQgivt4dl6gvyMZ-w/view?utm_content=DAHJM0GYwVs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Línea temporal del proyecto</a> de svarpra306</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778356975812-le8ijzmm1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJM0GYwVs/BZc3mhQgivt4dl6gvyMZ-w/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHJM0GYwVs/BZc3mhQgivt4dl6gvyMZ-w/view?utm_content=DAHJM0GYwVs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Línea temporal del proyecto</a> de svarpra306</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzml1-9tht2ubl1</odePageId>
+      <odeBlockId>block-1778371847784-e5dtkekhb</odeBlockId>
+      <blockName>Recursos y herramientas</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzml1-9tht2ubl1</odePageId>
+          <odeBlockId>block-1778371847784-e5dtkekhb</odeBlockId>
+          <odeIdeviceId>idevice-1778371847782-wpwihye4s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2 style="text-align: left;">1. Padlet con materiales para el alumnado</h2>
+<p>En este <a href="https://padlet.com/svarpra306/materiales-para-el-alumnado-163az5odv9rl8h4q" title="Enlace al padlet del alumnado" target="_blank" rel="noopener">padlet</a> encontraras todo lo necesario para realizar el proyecto. Está organizado por recursos y tienes enlaces a todo lo necesario.</p>
+<h2>2. Coggle: mapa mental del proyecto</h2>
+<p>En este <a href="https://coggle.it/diagram/af84CWK2ihu0_vgm/t/mapa-mental-para-organizarte/9eVKTqbTKeiR0YNO7Zw2NqUGzwqlpbz4uImRUf7zkyk" title="Enlace a coggle" target="_blank" rel="noopener">coggle</a> encontraréis un mapa mental con la organización del proyecto. Es otra forma más visual de ver todo el proyecto organizado por secciones.</p>
+<h2>3. Symbaloo: enlaces a recursos y aplicaciones</h2>
+<p style="text-align: justify;">En este <a href="https://www.symbaloo.com/shared/AAAAAwx21QsAA41_W3TvCA==" title="Enlace Symbaloo" target="_blank" rel="noopener">Symbaloo</a> encontraréis enlaces a una gran cantidad de recursos y webs relacionadas con este proyecto. Tenéis enlaces a páginas webs para buscar información general sobre el barroco y los instrumentos musicales, y también hay enlaces a todas la aplicaciones necesarias para hacer vuestro trabajo: canva, padlet, audacity, QR code creator, etc.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778371847782-wpwihye4s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2 style=\"text-align: left;\">1. Padlet con materiales para el alumnado</h2>\n<p>En este <a href=\"https://padlet.com/svarpra306/materiales-para-el-alumnado-163az5odv9rl8h4q\" title=\"Enlace al padlet del alumnado\" target=\"_blank\" rel=\"noopener\">padlet</a> encontraras todo lo necesario para realizar el proyecto. Está organizado por recursos y tienes enlaces a todo lo necesario.</p>\n<h2>2. Coggle: mapa mental del proyecto</h2>\n<p>En este <a href=\"https://coggle.it/diagram/af84CWK2ihu0_vgm/t/mapa-mental-para-organizarte/9eVKTqbTKeiR0YNO7Zw2NqUGzwqlpbz4uImRUf7zkyk\" title=\"Enlace a coggle\" target=\"_blank\" rel=\"noopener\">coggle</a> encontraréis un mapa mental con la organización del proyecto. Es otra forma más visual de ver todo el proyecto organizado por secciones.</p>\n<h2>3. Symbaloo: enlaces a recursos y aplicaciones</h2>\n<p style=\"text-align: justify;\">En este <a href=\"https://www.symbaloo.com/shared/AAAAAwx21QsAA41_W3TvCA==\" title=\"Enlace Symbaloo\" target=\"_blank\" rel=\"noopener\">Symbaloo</a> encontraréis enlaces a una gran cantidad de recursos y webs relacionadas con este proyecto. Tenéis enlaces a páginas webs para buscar información general sobre el barroco y los instrumentos musicales, y también hay enlaces a todas la aplicaciones necesarias para hacer vuestro trabajo: canva, padlet, audacity, QR code creator, etc.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzml1-9tht2ubl1</odePageId>
+      <odeBlockId>block-1778413419549-jjrauhz57</odeBlockId>
+      <blockName>Información adicional sobre el proyecto</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzml1-9tht2ubl1</odePageId>
+          <odeBlockId>block-1778413419549-jjrauhz57</odeBlockId>
+          <odeIdeviceId>idevice-1778413419548-tsdy16c2g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="1000" height="500" src="{{context_path}}/content/resources/COMENZAMOS NUESTRO PROYECTO sara varela.pdf"></iframe></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778413419548-tsdy16c2g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"1000\" height=\"500\" src=\"{{context_path}}/content/resources/COMENZAMOS NUESTRO PROYECTO sara varela.pdf\"></iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozmzml6-ttbdo1dtr</odePageId>
+  <odeParentPageId>page-mozmzml1-9tht2ubl1</odeParentPageId>
+  <pageName>0.1. Antes de empezar</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0.1. Antes de empezar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0.1. Antes de empezar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozmzml6-ttbdo1dtr</odePageId>
+      <odeBlockId>block-1778368825801-ev65kmh0z</odeBlockId>
+      <blockName>Protección de datos y responsabilidad digital</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzml6-ttbdo1dtr</odePageId>
+          <odeBlockId>block-1778368825801-ev65kmh0z</odeBlockId>
+          <odeIdeviceId>idevice-1778368825799-tvtdy41gh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">A continuación, se adjunta una infografía sobre protección de datos personales y garantías de derechos digitales, para que tengas en cuenta a la hora de realizar tu trabajo. Lee esta infografía detenidamente antes de pasar al primer apartado del proyecto.</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIz7M4o4k/oVjhWcFpr8eGNwIJr8LTJw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p style="text-align: justify;"><a href="https://www.canva.com/design/DAHIz7M4o4k/oVjhWcFpr8eGNwIJr8LTJw/view?utm_content=DAHIz7M4o4k&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Structured Infographic for Music Project Safety</a> de svarpra306</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778368825799-tvtdy41gh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">A continuación, se adjunta una infografía sobre protección de datos personales y garantías de derechos digitales, para que tengas en cuenta a la hora de realizar tu trabajo. Lee esta infografía detenidamente antes de pasar al primer apartado del proyecto.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIz7M4o4k/oVjhWcFpr8eGNwIJr8LTJw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p style=\"text-align: justify;\"><a href=\"https://www.canva.com/design/DAHIz7M4o4k/oVjhWcFpr8eGNwIJr8LTJw/view?utm_content=DAHIz7M4o4k&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Structured Infographic for Music Project Safety</a> de svarpra306</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozmzml8-smgflcw0c</odePageId>
+  <odeParentPageId>page-mozmzml1-9tht2ubl1</odeParentPageId>
+  <pageName>1.1. Investigar y redactar</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. Investigar y redactar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. Investigar y redactar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.1. Investigar y redactar</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozmzml8-smgflcw0c</odePageId>
+      <odeBlockId>block-1778353275128-mmsv5xgw3</odeBlockId>
+      <blockName>Instrucciones</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzml8-smgflcw0c</odePageId>
+          <odeBlockId>block-1778353275128-mmsv5xgw3</odeBlockId>
+          <odeIdeviceId>idevice-1778353275127-2eek5ufu3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Buscar información sobre un compositor del Barroco, una audición de una obra de dicho compositor, y un instrumento de la época (el profesor asignará a cada grupo un compositor y un instrumento concreto).</li>
+<li>Buscar la información exacta que se pide en la siguiente imagen de canva:
+<figure class="exe-figure position-center" style="width: 700px;"><img src="{{context_path}}/content/resources/Viajamos al Barroco.png" title="Viajamos al Barroco" width="700" height="495" alt="Canva viajamos al Barroco" />
+<figcaption class="figcaption"><span class="author">Sara Varela Prados</span>. <span class="title"><em>Imagen de la plantilla de canva</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</li>
+<li title="Enlace a plantilla de canva">Rellenar la plantilla de canva anterior en <a href="https://canva.link/ehg8jksn1bit6x8" title="Enlace a plantilla de canva" target="_blank" rel="noopener">este enlace</a><a href="11-investigar-y-redactar.html" title="Plantilla viajamos al Barroco" target="_blank" rel="noopener"></a>. <span style="background-color: #c2e0f4;"><strong>IMPORTANTE:</strong> debéis hacer una copia de dicha plantilla para poder trabajar con ella.</span><span style="background-color: #c2e0f4;"></span></li>
+</ul>
+<p>Cosas a tener en cuenta: </p>
+<ul>
+<li>Debéis repartir la tarea de buscar la información, y que cada miembro del grupo participe buscando una parte del trabajo.</li>
+<li>Debéis citar las fuentes de dónde sacáis la información.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778353275127-2eek5ufu3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Buscar información sobre un compositor del Barroco, una audición de una obra de dicho compositor, y un instrumento de la época (el profesor asignará a cada grupo un compositor y un instrumento concreto).</li>\n<li>Buscar la información exacta que se pide en la siguiente imagen de canva:\n<figure class=\"exe-figure position-center\" style=\"width: 700px;\"><img src=\"{{context_path}}/content/resources/Viajamos al Barroco.png\" title=\"Viajamos al Barroco\" width=\"700\" height=\"495\" alt=\"Canva viajamos al Barroco\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Sara Varela Prados</span>. <span class=\"title\"><em>Imagen de la plantilla de canva</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n</li>\n<li title=\"Enlace a plantilla de canva\">Rellenar la plantilla de canva anterior en <a href=\"https://canva.link/ehg8jksn1bit6x8\" title=\"Enlace a plantilla de canva\" target=\"_blank\" rel=\"noopener\">este enlace</a><a href=\"exe-node:page-mozmzml8-smgflcw0c\" title=\"Plantilla viajamos al Barroco\" target=\"_blank\" rel=\"noopener\"></a>. <span style=\"background-color: #c2e0f4;\"><strong>IMPORTANTE:</strong> debéis hacer una copia de dicha plantilla para poder trabajar con ella.</span><span style=\"background-color: #c2e0f4;\"></span></li>\n</ul>\n<p>Cosas a tener en cuenta: </p>\n<ul>\n<li>Debéis repartir la tarea de buscar la información, y que cada miembro del grupo participe buscando una parte del trabajo.</li>\n<li>Debéis citar las fuentes de dónde sacáis la información.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzml8-smgflcw0c</odePageId>
+      <odeBlockId>block-1778359322582-w6bmhtipr</odeBlockId>
+      <blockName>¿Dónde buscar información?</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzml8-smgflcw0c</odePageId>
+          <odeBlockId>block-1778359322582-w6bmhtipr</odeBlockId>
+          <odeIdeviceId>idevice-1778359322579-bcx8dey2o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este <a href="https://www.symbaloo.com/shared/AAAAAw6EXnIAA41_W3T41A==" title="Enlace a Symbaloo para alumnado" target="_blank" rel="noopener">enlace</a> a la aplicación de Symbaloo podrás encontrar varias páginas para buscar información.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778359322579-bcx8dey2o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este <a href=\"https://www.symbaloo.com/shared/AAAAAw6EXnIAA41_W3T41A==\" title=\"Enlace a Symbaloo para alumnado\" target=\"_blank\" rel=\"noopener\">enlace</a> a la aplicación de Symbaloo podrás encontrar varias páginas para buscar información.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozmzmla-plees691l</odePageId>
+  <odeParentPageId>page-mozmzml1-9tht2ubl1</odeParentPageId>
+  <pageName>1.2. Guion y grabación del Podcast</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2. Guion y grabación del Podcast</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2. Guion y grabación del Podcast</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.2. Guion y grabación del Podcast</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozmzmla-plees691l</odePageId>
+      <odeBlockId>block-1778362841957-3mrjkx3oy</odeBlockId>
+      <blockName>Instrucciones</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmla-plees691l</odePageId>
+          <odeBlockId>block-1778362841957-3mrjkx3oy</odeBlockId>
+          <odeIdeviceId>idevice-1778362841955-vditqh01j</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-4"><h2 style="display:none;">Redactar un guion</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;">Redactar un guion para grabar un podcast a partir de la información redactada en el canva. El guion debe estar dividido en varias secciones diferentes, cada sección debe ser redactada y grabada por al menos un miembro del equipo, el guion debe ser corto, debe concretar los contenidos de los que se hablará en cada sección y en que orden, y debe contener los minutos que dura cada sección.</p>
+<p style="text-align: justify;">Cosas a tener en cuenta:</p>
+<ul>
+<li style="text-align: justify;">Podéis serviros de la siguiente plantilla para realizarlo: <a href="https://docs.google.com/document/d/1Pib5QovyaqTLBDPkChRO4u2htuJ9PaTL/edit?usp=sharing&amp;ouid=109010033464504060263&amp;rtpof=true&amp;sd=true" title="Enlace a plantilla del guion" target="_blank" rel="noopener">plantilla guion</a></li>
+<li style="text-align: justify;">Tenéis una sesión completa para realizarlo.&nbsp;</li>
+<li style="text-align: justify;">El podcast no debe durar más de 3 min.</li>
+<li style="text-align: justify;">Las secciones pueden ser: entrevista, noticias, anuncios, concurso, podcast educativo, radio teatro, tertulia, debate, etc.</li>
+</ul></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p>Redactar un guion para grabar un podcast a partir de la información del canva.  </p>
+<p>Cosas a tener en cuenta:</p>
+<ul>
+<li title="enlace a plantilla guion">Hay que usar esta <a href="https://docs.google.com/document/d/1Pib5QovyaqTLBDPkChRO4u2htuJ9PaTL/edit?usp=sharing&ouid=109010033464504060263&rtpof=true&sd=true" title="enlace a plantilla guion" target="_blank" rel="noopener">plantilla para el guion</a></li>
+<li title="enlace a plantilla guion">Tenéis una clase para escribirlo.</li>
+<li title="enlace a plantilla guion">Duración del podcast: no más de 3 min (el guion debe ser corto).</li>
+<li title="enlace a plantilla guion">El podcast debe tener varias secciones. Posibles secciones: entrevista, noticias, anuncios, concurso, podcast educativo, radio teatro, tertulia, debate, viaje al pasado, etc.</li>
+<li title="enlace a plantilla guion">Cada sección debe ser redactada y grabada por al menos un miembro del equipo.</li>
+<li title="enlace a plantilla guion">En el guion: hay que concretar los contenidos de los que se hablará en cada sección y en que orden.<br></li>
+</ul><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-1"><h2 style="display:none;">Grabar y editar</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Una vez que el guion está hecho, ya podemos hacer la grabación con <a href="https://www.audacityteam.org/download/" title="enlace a descarga de audacity" target="_blank" rel="noopener">audacity</a>:</p>
+<ol>
+<li>Primero, practicáis una o dos veces a hacer el podcast sin grabar, para controlar cuanto dura (no debe pasar de 3 min).</li>
+<li>Se realiza la grabación con audacity y se guarda el proyecto.</li>
+<li title="Enlace a pixabay music">Se edita dicho proyecto de audacity poniendo una música de fondo. Podéis sacar la música de <a href="https://pixabay.com/es/music/" title="Enlace a pixabay music" target="_blank" rel="noopener">pixabay</a>.</li>
+<li title="enlace a drive">Se exporta en archivo mp3, y se guarda en <a href="https://workspace.google.com/intl/es/products/drive/" title="enlace a drive" target="_blank" rel="noopener">drive</a>.</li>
+</ol></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p>Para grabar:</p>
+<ol>
+<li>Hay que practicar a hacerlo sin grabar.</li>
+<li title="enlace a descarga de audacity">Realizar grabación con <a href="https://www.audacityteam.org/download/" title="enlace a descarga de audacity" target="_blank" rel="noopener">audacity</a> y guardar proyecto.</li>
+<li title="enlace a pixabay music">Editar: ponerle música de fondo con audacity. Podéis sacar la música de <a href="https://pixabay.com/es/music/" title="enlace a pixabay music" target="_blank" rel="noopener">pixabay</a>.</li>
+<li title="enlace a drive">Exportar en archivo mp3, y guardar en <a href="https://workspace.google.com/intl/es/products/drive/" title="enlace a drive" target="_blank" rel="noopener">drive</a>.</li>
+</ol><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzmla-plees691l</odePageId>
+      <odeBlockId>block-1778364057945-hysfwu9ju</odeBlockId>
+      <blockName>Tutoriales de audacity</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmla-plees691l</odePageId>
+          <odeBlockId>block-1778364057945-hysfwu9ju</odeBlockId>
+          <odeIdeviceId>idevice-1778364057936-nzm7zevwx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tutorial de como insertar pista de audio en audacity: </p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_x3spmydkc"><iframe width="300" height="150" src="https://www.youtube.com/embed/IMjA96RGIjs?si=TGjK1Ss2xTSt85t2" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@elrincondelhacker" target="_blank" class="author" rel="noopener">El Rincón del Hacker</a>. <span class="title"><em>Cómo Poner MÚSICA DE FONDO en AUDACITY</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p>Tutorial de cómo guardar proyecto en audacity: </p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_4wg7ybhh2"><iframe width="300" height="150" src="https://www.youtube.com/embed/kYwKb4bkTy8?si=ByzZ6vU2Qjwmh64Y" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@tutosman" target="_blank" class="author" rel="noopener">TUTOSMAN</a>. <span class="title"><em>Como guardar proyectos en audacity</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Tutorial para exportar a mp3 en audacity: </p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_zybiskves"><iframe width="300" height="150" src="https://www.youtube.com/embed/Q5MIIkpo9po?si=iH9sCY8Xa9ecjSc4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@dameunamano" target="_blank" class="author" rel="noopener">Dame una mano</a>. <span class="title"><em>Como GUARDAR un AUDIO MP3 en Audacity - Paso a Paso</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778364057936-nzm7zevwx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tutorial de como insertar pista de audio en audacity: </p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_x3spmydkc\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/IMjA96RGIjs?si=TGjK1Ss2xTSt85t2\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@elrincondelhacker\" target=\"_blank\" class=\"author\" rel=\"noopener\">El Rincón del Hacker</a>. <span class=\"title\"><em>Cómo Poner MÚSICA DE FONDO en AUDACITY</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p>Tutorial de cómo guardar proyecto en audacity: </p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_4wg7ybhh2\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/kYwKb4bkTy8?si=ByzZ6vU2Qjwmh64Y\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@tutosman\" target=\"_blank\" class=\"author\" rel=\"noopener\">TUTOSMAN</a>. <span class=\"title\"><em>Como guardar proyectos en audacity</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Tutorial para exportar a mp3 en audacity: </p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_zybiskves\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/Q5MIIkpo9po?si=iH9sCY8Xa9ecjSc4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@dameunamano\" target=\"_blank\" class=\"author\" rel=\"noopener\">Dame una mano</a>. <span class=\"title\"><em>Como GUARDAR un AUDIO MP3 en Audacity - Paso a Paso</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzmla-plees691l</odePageId>
+      <odeBlockId>block-1778377579427-o67dkgcvd</odeBlockId>
+      <blockName>Tutorial de drive y pixabay</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmla-plees691l</odePageId>
+          <odeBlockId>block-1778377579427-o67dkgcvd</odeBlockId>
+          <odeIdeviceId>idevice-1778377579425-9hmnqgupg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tutorial de google drive para subir y compartir archivos: </p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_l5e2lkuak"><iframe width="300" height="150" src="https://www.youtube.com/embed/odeA7YtzDrE?si=4j-nOlCOBZZnrHax" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@SaberProgramas" target="_blank" class="author" rel="noopener">Saber programas</a>. <span class="title"><em>Cómo SUBIR y COMPARTIR archivos en Google Drive 2026</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Tutorial para descargar música sin derechos de autor en pixabay: </p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_bznau9wmr"><iframe width="300" height="150" src="https://www.youtube.com/embed/40wbcyPEJQs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@RedZone19949" target="_blank" class="author" rel="noopener">Red Zone</a>. <span class="title"><em>Cómo descargar música MP3 gratis de Pixabay 2026</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778377579425-9hmnqgupg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tutorial de google drive para subir y compartir archivos: </p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_l5e2lkuak\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/odeA7YtzDrE?si=4j-nOlCOBZZnrHax\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@SaberProgramas\" target=\"_blank\" class=\"author\" rel=\"noopener\">Saber programas</a>. <span class=\"title\"><em>Cómo SUBIR y COMPARTIR archivos en Google Drive 2026</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Tutorial para descargar música sin derechos de autor en pixabay: </p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_bznau9wmr\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/40wbcyPEJQs\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@RedZone19949\" target=\"_blank\" class=\"author\" rel=\"noopener\">Red Zone</a>. <span class=\"title\"><em>Cómo descargar música MP3 gratis de Pixabay 2026</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzmla-plees691l</odePageId>
+      <odeBlockId>block-1778378865551-ozphahif8</odeBlockId>
+      <blockName>Tutoriales sobre podcasts</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmla-plees691l</odePageId>
+          <odeBlockId>block-1778378865551-ozphahif8</odeBlockId>
+          <odeIdeviceId>idevice-1778378865547-7ceumstnt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Tutorial sobre qué es un podcast:</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_zxjxmy4hz"><iframe width="300" height="150" src="https://www.youtube.com/embed/y-8w9oVqI18?si=F-UU6D2ymzwyvU8u" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@tutor5126" target="_blank" class="author" rel="noopener">Tutor</a>. <span class="title"><em>Qué es un podcast y qué tipos existen.</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Tutorial sobre la grabación de un podcast: </p>
+<figure class="exe-figure exe-media position-center" style="width: 300px;" id="fig_yhxmna585"><iframe width="300" height="150" src="https://www.youtube.com/embed/_Ubtk_QnGsA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@tutor5126" target="_blank" class="author" rel="noopener">Tutor</a>. <span class="title"><em>La grabación de un podcast</em></span></figcaption>
+</figure>
+<p>Tutorial de como hacer una escaleta y un guion de un podcast: </p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;"><iframe width="300" height="168" src="https://www.youtube.com/embed/Tr1Ku_3q7jg?si=UMBykGluGrgPqtGQ" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@tutor5126" target="_blank" class="author" rel="noopener">Tutor</a>. <span class="title"><em>Cómo hacer una escaleta y un guion de un podcast</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778378865547-7ceumstnt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Tutorial sobre qué es un podcast:</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_zxjxmy4hz\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/y-8w9oVqI18?si=F-UU6D2ymzwyvU8u\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@tutor5126\" target=\"_blank\" class=\"author\" rel=\"noopener\">Tutor</a>. <span class=\"title\"><em>Qué es un podcast y qué tipos existen.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Tutorial sobre la grabación de un podcast: </p>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 300px;\" id=\"fig_yhxmna585\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/_Ubtk_QnGsA\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@tutor5126\" target=\"_blank\" class=\"author\" rel=\"noopener\">Tutor</a>. <span class=\"title\"><em>La grabación de un podcast</em></span></figcaption>\n</figure>\n<p>Tutorial de como hacer una escaleta y un guion de un podcast: </p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\"><iframe width=\"300\" height=\"168\" src=\"https://www.youtube.com/embed/Tr1Ku_3q7jg?si=UMBykGluGrgPqtGQ\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@tutor5126\" target=\"_blank\" class=\"author\" rel=\"noopener\">Tutor</a>. <span class=\"title\"><em>Cómo hacer una escaleta y un guion de un podcast</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozmzmlf-eg8fc5f7l</odePageId>
+  <odeParentPageId>page-mozmzml1-9tht2ubl1</odeParentPageId>
+  <pageName>1.3. Código QR y Padlet</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3. Código QR y Padlet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3. Código QR y Padlet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.3. Código QR y Padlet</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozmzmlf-eg8fc5f7l</odePageId>
+      <odeBlockId>block-1778364646291-wacsxiyzu</odeBlockId>
+      <blockName>Instrucciones</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlf-eg8fc5f7l</odePageId>
+          <odeBlockId>block-1778364646291-wacsxiyzu</odeBlockId>
+          <odeIdeviceId>idevice-1778364646285-5xz34mwbb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>El siguiente paso es:</p>
+<ol>
+<li title="enlace a QR code creator">Asociar nuestro podcast en mp3 a un código QR. (Puedes usar <a href="https://qrcodecreator.com/qr-generator?gclid=EAIaIQobChMI_o_lx92ulAMVRLGDBx0EHwjWEAAYAiAAEgLlAfD_BwE&amp;AdId=714004373903&amp;keyword=qr%20code%20generator&amp;matchtype=e&amp;device=c&amp;devicemodel=&amp;loc=9211218&amp;network=g&amp;place=&amp;campaignid=21713745020&amp;gad_source=1&amp;gad_campaignid=21713745020&amp;gbraid=0AAAAAqLtWn29zSttAJ2PFHv96NIC6gNjq&amp;gclid=EAIaIQobChMI_o_lx92ulAMVRLGDBx0EHwjWEAAYAiAAEgLlAfD_BwE" title="enlace a QR code creator" target="_blank" rel="noopener">QR code creator</a>)</li>
+<li>Poner ese QR en la platilla de canva donde habéis redactado el trabajo.</li>
+<li title="enlace a padlet compartido">Compartir nuestro proyecto de canva en este <a href="https://padlet.com/svarpra306/padlet-compartido-2-eso-1m9ao1sc98nzc0on" title="enlace a padlet compartido" target="_blank" rel="noopener">padlet</a><a href="13-codigo-qr-y-padlet.html" title="Padlet compartido 2º ESO" target="_blank" rel="noopener">,</a> que se adjunta a continuación.</li>
+</ol><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Mostrar retroalimentación" data-text-a="Mostrar retroalimentación" data-text-b="Mostrar retroalimentación"></div><div class="feedback js-feedback js-hidden" style="display: none;"><p>Tutorial para enlazar un diseño de canva en padlet:<br /></p>
+<ul>
+<li>En Canva: Abre tu diseño y haz clic en el botón <strong>Compartir.</strong></li>
+<li>En <em>nivel de acceso</em>, asegúrate de que está marcada la casilla <strong>"Cualquier persona que tenga el enlace"</strong>, y la casilla <strong>''Ver''</strong>.</li>
+<li>Haz clic en <strong>''Copiar enlace''</strong>.</li>
+<li>En Padlet: Crea una nueva publicación (botón <strong>Publicar "+"</strong>) y selecciona el icono de <strong>Enlace</strong> (icono de cadena).</li>
+<li>Pega el enlace de Canva y haz clic en <strong>"Publicar"</strong>.</li>
+</ul>
+<p>A continuación, se adjunta un video tutorial de cómo poner una imagen de canva en padlet y de cómo poner un enlace de canva en padlet <span style="background-color: #c2e0f4;">(<strong>IMPORTANTE:</strong> mejor la opción del enlace para nuestro trabajo)</span>:</p>
+<p><br /></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_jtar0wtpo"><iframe width="560" height="314" src="https://www.youtube.com/embed/zHWbt21mUdI?si=dYYyQTY38Rb-tc5R" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@patoarancibia2173" target="_blank" class="author" rel="noopener">Pato Arancibia</a>. <span class="title"><em>Subir imágenes y links de Canva a Padlet</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778364646285-5xz34mwbb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>El siguiente paso es:</p>\n<ol>\n<li title=\"enlace a QR code creator\">Asociar nuestro podcast en mp3 a un código QR. (Puedes usar <a href=\"https://qrcodecreator.com/qr-generator?gclid=EAIaIQobChMI_o_lx92ulAMVRLGDBx0EHwjWEAAYAiAAEgLlAfD_BwE&amp;AdId=714004373903&amp;keyword=qr%20code%20generator&amp;matchtype=e&amp;device=c&amp;devicemodel=&amp;loc=9211218&amp;network=g&amp;place=&amp;campaignid=21713745020&amp;gad_source=1&amp;gad_campaignid=21713745020&amp;gbraid=0AAAAAqLtWn29zSttAJ2PFHv96NIC6gNjq&amp;gclid=EAIaIQobChMI_o_lx92ulAMVRLGDBx0EHwjWEAAYAiAAEgLlAfD_BwE\" title=\"enlace a QR code creator\" target=\"_blank\" rel=\"noopener\">QR code creator</a>)</li>\n<li>Poner ese QR en la platilla de canva donde habéis redactado el trabajo.</li>\n<li title=\"enlace a padlet compartido\">Compartir nuestro proyecto de canva en este <a href=\"https://padlet.com/svarpra306/padlet-compartido-2-eso-1m9ao1sc98nzc0on\" title=\"enlace a padlet compartido\" target=\"_blank\" rel=\"noopener\">padlet</a><a href=\"exe-node:page-mozmzmlf-eg8fc5f7l\" title=\"Padlet compartido 2º ESO\" target=\"_blank\" rel=\"noopener\">,</a> que se adjunta a continuación.</li>\n</ol><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Mostrar retroalimentación\" data-text-a=\"Mostrar retroalimentación\" data-text-b=\"Mostrar retroalimentación\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><p>Tutorial para enlazar un diseño de canva en padlet:<br /></p>\n<ul>\n<li>En Canva: Abre tu diseño y haz clic en el botón <strong>Compartir.</strong></li>\n<li>En <em>nivel de acceso</em>, asegúrate de que está marcada la casilla <strong>\"Cualquier persona que tenga el enlace\"</strong>, y la casilla <strong>''Ver''</strong>.</li>\n<li>Haz clic en <strong>''Copiar enlace''</strong>.</li>\n<li>En Padlet: Crea una nueva publicación (botón <strong>Publicar \"+\"</strong>) y selecciona el icono de <strong>Enlace</strong> (icono de cadena).</li>\n<li>Pega el enlace de Canva y haz clic en <strong>\"Publicar\"</strong>.</li>\n</ul>\n<p>A continuación, se adjunta un video tutorial de cómo poner una imagen de canva en padlet y de cómo poner un enlace de canva en padlet <span style=\"background-color: #c2e0f4;\">(<strong>IMPORTANTE:</strong> mejor la opción del enlace para nuestro trabajo)</span>:</p>\n<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_jtar0wtpo\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/zHWbt21mUdI?si=dYYyQTY38Rb-tc5R\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@patoarancibia2173\" target=\"_blank\" class=\"author\" rel=\"noopener\">Pato Arancibia</a>. <span class=\"title\"><em>Subir imágenes y links de Canva a Padlet</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p></div></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":"<p>Tutorial para enlazar un diseño de canva en padlet:<br /></p>\n<ul>\n<li>En Canva: Abre tu diseño y haz clic en el botón <strong>Compartir.</strong></li>\n<li>En <em>nivel de acceso</em>, asegúrate de que está marcada la casilla <strong>\"Cualquier persona que tenga el enlace\"</strong>, y la casilla <strong>''Ver''</strong>.</li>\n<li>Haz clic en <strong>''Copiar enlace''</strong>.</li>\n<li>En Padlet: Crea una nueva publicación (botón <strong>Publicar \"+\"</strong>) y selecciona el icono de <strong>Enlace</strong> (icono de cadena).</li>\n<li>Pega el enlace de Canva y haz clic en <strong>\"Publicar\"</strong>.</li>\n</ul>\n<p>A continuación, se adjunta un video tutorial de cómo poner una imagen de canva en padlet y de cómo poner un enlace de canva en padlet <span style=\"background-color: #c2e0f4;\">(<strong>IMPORTANTE:</strong> mejor la opción del enlace para nuestro trabajo)</span>:</p>\n<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_jtar0wtpo\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/zHWbt21mUdI?si=dYYyQTY38Rb-tc5R\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@patoarancibia2173\" target=\"_blank\" class=\"author\" rel=\"noopener\">Pato Arancibia</a>. <span class=\"title\"><em>Subir imágenes y links de Canva a Padlet</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzmlf-eg8fc5f7l</odePageId>
+      <odeBlockId>block-1778376491147-5fohn5681</odeBlockId>
+      <blockName>Padlet compartido</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlf-eg8fc5f7l</odePageId>
+          <odeBlockId>block-1778376491147-5fohn5681</odeBlockId>
+          <odeIdeviceId>idevice-1778376491081-m0ujqefth</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/1m9ao1sc98nzc0on" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778376491081-m0ujqefth","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/1m9ao1sc98nzc0on\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozmzmlh-0w3yktd6g</odePageId>
+  <odeParentPageId>page-mozmzml1-9tht2ubl1</odeParentPageId>
+  <pageName>1.4. Interpretación musical</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.4. Interpretación musical</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.4. Interpretación musical</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.4. Interpretación musical</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozmzmlh-0w3yktd6g</odePageId>
+      <odeBlockId>block-1778365293788-qldawe2jr</odeBlockId>
+      <blockName>Instrucciones</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlh-0w3yktd6g</odePageId>
+          <odeBlockId>block-1778365293788-qldawe2jr</odeBlockId>
+          <odeIdeviceId>idevice-1778365293787-cp2cycao5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta tarea os convertiréis en músicos del siglo XVII durante dos clases, ya que tendréis que tocar una adaptación del canon de Pachelbel. </p>
+<p>En este apartado os dejo los materiales para practicar en casa y curiosidades relacionadas con la obra.</p>
+<p><span style="background-color: #c2e0f4;"><strong>TEMPORALIZACIÓN:</strong></span></p>
+<ul>
+<li>En la primera clase tocaremos la obra varias veces, resolveremos dudas de notas e intentaremos dejar aclaradas las dudas de ritmo.</li>
+<li>En la segunda clase la practicaremos a una sola voz varias veces, y después intentaremos hacerla en <a href="#tafaff8b1-edb7-2527-06b4-c8f4a6ece5de" id="linkafaff8b1-edb7-2527-06b4-c8f4a6ece5de" class="exe-tooltip definition-tt titled-tt light-tt shadowed-tt" title="Canon musical | Canon musical">canon</a>.</li>
+</ul>
+<p><span style="background-color: #c2e0f4;"><strong>EVALUACIÓN:</strong></span></p>
+<ul>
+<li>Cada alumno/a tendrá que grabarse tocando esta obra, y mandar dicha grabación por el classroom.</li>
+<li>La evaluación de está tarea se hará con una rúbrica.</li>
+</ul>
+<p><br /></p>
+<div id="tafaff8b1-edb7-2527-06b4-c8f4a6ece5de" class="exe-tooltip-text">
+<p>Un canon musical es una canción donde un grupo empieza a cantar una melodía y, poco después, otro grupo canta exactamente lo mismo, pero empezando más tarde, creando un efecto de "persecución" musical.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778365293787-cp2cycao5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta tarea os convertiréis en músicos del siglo XVII durante dos clases, ya que tendréis que tocar una adaptación del canon de Pachelbel. </p>\n<p>En este apartado os dejo los materiales para practicar en casa y curiosidades relacionadas con la obra.</p>\n<p><span style=\"background-color: #c2e0f4;\"><strong>TEMPORALIZACIÓN:</strong></span></p>\n<ul>\n<li>En la primera clase tocaremos la obra varias veces, resolveremos dudas de notas e intentaremos dejar aclaradas las dudas de ritmo.</li>\n<li>En la segunda clase la practicaremos a una sola voz varias veces, y después intentaremos hacerla en <a href=\"#tafaff8b1-edb7-2527-06b4-c8f4a6ece5de\" id=\"linkafaff8b1-edb7-2527-06b4-c8f4a6ece5de\" class=\"exe-tooltip definition-tt titled-tt light-tt shadowed-tt\" title=\"Canon musical | Canon musical\">canon</a>.</li>\n</ul>\n<p><span style=\"background-color: #c2e0f4;\"><strong>EVALUACIÓN:</strong></span></p>\n<ul>\n<li>Cada alumno/a tendrá que grabarse tocando esta obra, y mandar dicha grabación por el classroom.</li>\n<li>La evaluación de está tarea se hará con una rúbrica.</li>\n</ul>\n<p><br /></p>\n<div id=\"tafaff8b1-edb7-2527-06b4-c8f4a6ece5de\" class=\"exe-tooltip-text\">\n<p>Un canon musical es una canción donde un grupo empieza a cantar una melodía y, poco después, otro grupo canta exactamente lo mismo, pero empezando más tarde, creando un efecto de \"persecución\" musical.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzmlh-0w3yktd6g</odePageId>
+      <odeBlockId>block-1778365868040-afx5xs9yp</odeBlockId>
+      <blockName>Video: Canon de Pachelbel. Adaptación para flauta.</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlh-0w3yktd6g</odePageId>
+          <odeBlockId>block-1778365868040-afx5xs9yp</odeBlockId>
+          <odeIdeviceId>idevice-1778365868038-psg6g7ycu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;"><iframe width="560" height="314" src="https://www.youtube.com/embed/YNLeRqSZeM4?si=RekPWx-74temB1T9" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="https://youtu.be/YNLeRqSZeM4?si=RekPWx-74temB1T9" target="_blank" class="author" rel="noopener">Toni Gallart</a>. <span class="title"><em>Canon de pachelbel. Adaptación para flauta</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778365868038-psg6g7ycu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/YNLeRqSZeM4?si=RekPWx-74temB1T9\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://youtu.be/YNLeRqSZeM4?si=RekPWx-74temB1T9\" target=\"_blank\" class=\"author\" rel=\"noopener\">Toni Gallart</a>. <span class=\"title\"><em>Canon de pachelbel. Adaptación para flauta</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzmlh-0w3yktd6g</odePageId>
+      <odeBlockId>block-1778367089491-mgzk4xv1s</odeBlockId>
+      <blockName>Partitura: Canon de Pachelbel. Adaptación para flauta</blockName>
+      <iconName>music</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlh-0w3yktd6g</odePageId>
+          <odeBlockId>block-1778367089491-mgzk4xv1s</odeBlockId>
+          <odeIdeviceId>idevice-1778367089490-38a8862k8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 1200px;"><embed width="1200" height="600" src="{{context_path}}/content/resources/2020 Pachelbel canon SI NOTES OK.pdf" type="application/pdf"></embed>
+<figcaption class="figcaption"><a href="https://drive.google.com/file/d/16Vkj1RZOaFdDPu0vU5n-3NU08clvLaZQ/view?usp=sharing" target="_blank" class="author" rel="noopener">Toni Gallart</a>. <span class="title"><em>Canon de Pachelbel</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778367089490-38a8862k8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 1200px;\"><embed width=\"1200\" height=\"600\" src=\"{{context_path}}/content/resources/2020 Pachelbel canon SI NOTES OK.pdf\" type=\"application/pdf\"></embed>\n<figcaption class=\"figcaption\"><a href=\"https://drive.google.com/file/d/16Vkj1RZOaFdDPu0vU5n-3NU08clvLaZQ/view?usp=sharing\" target=\"_blank\" class=\"author\" rel=\"noopener\">Toni Gallart</a>. <span class=\"title\"><em>Canon de Pachelbel</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzmlh-0w3yktd6g</odePageId>
+      <odeBlockId>block-1778367596365-4ckwb0jbg</odeBlockId>
+      <blockName>Video: Canon de Pachelbel. Obra original.</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlh-0w3yktd6g</odePageId>
+          <odeBlockId>block-1778367596365-4ckwb0jbg</odeBlockId>
+          <odeIdeviceId>idevice-1778367596358-zuoynuaok</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;"><iframe width="560" height="314" src="https://www.youtube.com/embed/OFfYGoVstgc?list=RDOFfYGoVstgc&start_radio=1" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/@depixier" target="_blank" class="author" rel="noopener">Depixier</a>. <span class="title"><em>Pachelbel Canon en Re Mayor - RTVE</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778367596358-zuoynuaok","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/OFfYGoVstgc?list=RDOFfYGoVstgc&start_radio=1\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/@depixier\" target=\"_blank\" class=\"author\" rel=\"noopener\">Depixier</a>. <span class=\"title\"><em>Pachelbel Canon en Re Mayor - RTVE</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzmlh-0w3yktd6g</odePageId>
+      <odeBlockId>block-1778368007883-04w40lba2</odeBlockId>
+      <blockName>¿Sabías que?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlh-0w3yktd6g</odePageId>
+          <odeBlockId>block-1778368007883-04w40lba2</odeBlockId>
+          <odeIdeviceId>idevice-1778368007879-c3p7pgha6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 500px;"><iframe width="500" height="250" src="https://www.youtube.com/embed/10Y6SBoImkk" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="https://www.youtube.com/watch?v=10Y6SBoImkk" target="_blank" class="author" rel="noopener">Jaime Altozano</a>. <span class="title"><em>Lo que nadie sabe de El Canon de Pachelbel</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778368007879-c3p7pgha6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 500px;\"><iframe width=\"500\" height=\"250\" src=\"https://www.youtube.com/embed/10Y6SBoImkk\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://www.youtube.com/watch?v=10Y6SBoImkk\" target=\"_blank\" class=\"author\" rel=\"noopener\">Jaime Altozano</a>. <span class=\"title\"><em>Lo que nadie sabe de El Canon de Pachelbel</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozmzmlk-y4dvi7kg9</odePageId>
+  <odeParentPageId>page-mozmzml1-9tht2ubl1</odeParentPageId>
+  <pageName>1.5. Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.5. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.5. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.5. Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozmzmlk-y4dvi7kg9</odePageId>
+      <odeBlockId>block-1778370908522-k47dh94cm</odeBlockId>
+      <blockName>Escala de valoración</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlk-y4dvi7kg9</odePageId>
+          <odeBlockId>block-1778370908522-k47dh94cm</odeBlockId>
+          <odeIdeviceId>idevice-1778370908514-opt9xjdqi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span style="background-color: #eccafa;">PARA EVALUAR EL TRABAJO EN EL AULA:</span></strong></p>
+<p>Por ejemplo, para el proyecto de canva, podemos usar una escala de valoración. En este caso comparto una hecha en google forms: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZtitFCE8HE5itLLy52g0b4xqIrCXbaB9i6TZnmliYcMPIyA/viewform?usp=sharing&amp;ouid=109010033464504060263" title="enlace a google forms" target="_blank" rel="noopener">escala de valoración del trabajo en clase</a>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778370908514-opt9xjdqi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span style=\"background-color: #eccafa;\">PARA EVALUAR EL TRABAJO EN EL AULA:</span></strong></p>\n<p>Por ejemplo, para el proyecto de canva, podemos usar una escala de valoración. En este caso comparto una hecha en google forms: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfZtitFCE8HE5itLLy52g0b4xqIrCXbaB9i6TZnmliYcMPIyA/viewform?usp=sharing&amp;ouid=109010033464504060263\" title=\"enlace a google forms\" target=\"_blank\" rel=\"noopener\">escala de valoración del trabajo en clase</a>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzmlk-y4dvi7kg9</odePageId>
+      <odeBlockId>block-1778371234831-20dbi8q7s</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlk-y4dvi7kg9</odePageId>
+          <odeBlockId>block-1778371234831-20dbi8q7s</odeBlockId>
+          <odeIdeviceId>idevice-1778371234823-nab42vgyw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="background-color: #eccafa;"><strong>PARA EVALUAR LA INTERPRETACIÓN DEL CANON:</strong></span></p>
+<p>Se utilizará la siguiente rúbrica, hecha con idoceo: <a href="https://drive.google.com/file/d/1U17fqHmFsmI-z-ky8anffehm7UYEnknv/view?usp=sharing" title="enlace a rúbrica de interpretación" target="_blank" rel="noopener">rúbrica de interpretación</a>.</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778371234823-nab42vgyw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"background-color: #eccafa;\"><strong>PARA EVALUAR LA INTERPRETACIÓN DEL CANON:</strong></span></p>\n<p>Se utilizará la siguiente rúbrica, hecha con idoceo: <a href=\"https://drive.google.com/file/d/1U17fqHmFsmI-z-ky8anffehm7UYEnknv/view?usp=sharing\" title=\"enlace a rúbrica de interpretación\" target=\"_blank\" rel=\"noopener\">rúbrica de interpretación</a>.</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzmlk-y4dvi7kg9</odePageId>
+      <odeBlockId>block-1778380674595-ivq4lphei</odeBlockId>
+      <blockName>Para más información</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlk-y4dvi7kg9</odePageId>
+          <odeBlockId>block-1778380674595-ivq4lphei</odeBlockId>
+          <odeIdeviceId>idevice-1778380674587-6nnixz78i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 1000px;"><iframe width="1000" height="500" src="https://docs.google.com/document/d/1mPBUjDVGZ8v5b-BSX-GV9ha4n986reThA1ipg_-3Hjg/edit?usp=sharing"></iframe>
+<figcaption class="figcaption"><span class="author">Sara Varela Prados</span>. <span class="title"><em>Explicación de los instrumentos de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778380674587-6nnixz78i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 1000px;\"><iframe width=\"1000\" height=\"500\" src=\"https://docs.google.com/document/d/1mPBUjDVGZ8v5b-BSX-GV9ha4n986reThA1ipg_-3Hjg/edit?usp=sharing\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Sara Varela Prados</span>. <span class=\"title\"><em>Explicación de los instrumentos de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozmzmlm-uwc24b1qp</odePageId>
+  <odeParentPageId>page-mozmzml1-9tht2ubl1</odeParentPageId>
+  <pageName>1.6. Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.6. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.6. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.6. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozmzmlm-uwc24b1qp</odePageId>
+      <odeBlockId>block-1778370383299-8gq0v03hb</odeBlockId>
+      <blockName>Criterios y saberes básicos</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlm-uwc24b1qp</odePageId>
+          <odeBlockId>block-1778370383299-8gq0v03hb</odeBlockId>
+          <odeIdeviceId>idevice-1778370383289-2kvdiq96s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 1000px;" id="fig_tj6vzfgma"><iframe width="1000" height="500" src="https://docs.google.com/document/d/133jAix3TUEbZsgzU9K2O2s0RsY4L6Hcs3By2Zt_seR8/edit?usp=sharing" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><a href="https://docs.google.com/document/d/133jAix3TUEbZsgzU9K2O2s0RsY4L6Hcs3By2Zt_seR8/edit?usp=sharing" target="_blank" class="author" rel="noopener">Sara Varela Prados</a>. <span class="title"><em>Asociamos tareas a criterios de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778370383289-2kvdiq96s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 1000px;\" id=\"fig_tj6vzfgma\"><iframe width=\"1000\" height=\"500\" src=\"https://docs.google.com/document/d/133jAix3TUEbZsgzU9K2O2s0RsY4L6Hcs3By2Zt_seR8/edit?usp=sharing\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://docs.google.com/document/d/133jAix3TUEbZsgzU9K2O2s0RsY4L6Hcs3By2Zt_seR8/edit?usp=sharing\" target=\"_blank\" class=\"author\" rel=\"noopener\">Sara Varela Prados</a>. <span class=\"title\"><em>Asociamos tareas a criterios de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mozmzmlp-cy8zlgw9a</odePageId>
+  <odeParentPageId>page-mozmzml1-9tht2ubl1</odeParentPageId>
+  <pageName>1.7. Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.7. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.7. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mozmzmlp-cy8zlgw9a</odePageId>
+      <odeBlockId>block-1778381071115-4m724ip53</odeBlockId>
+      <blockName>Información final</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlp-cy8zlgw9a</odePageId>
+          <odeBlockId>block-1778381071115-4m724ip53</odeBlockId>
+          <odeIdeviceId>idevice-1778381071114-zlb4p2wxk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría:</strong> Sara Varela Prados</p>
+<p><strong>Descripción:</strong> todos los documentos y contenidos vistos en este proyecto están encaminados a que el alumnado realice de forma satisfactoria el proyecto final y la interpretación del canon de Pachelbel.</p>
+<p><strong>Licencia de uso:</strong> CC-BY-NC-SA</p>
+<p><img src="{{context_path}}/content/resources/Plantilla-de-imagenes-para-posts-del-blog-Vecpho-1.jpg" width="90" height="60" alt="Imagen CC BY NC SA" style="font-weight: bolder; float: left;" /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778381071114-zlb4p2wxk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría:</strong> Sara Varela Prados</p>\n<p><strong>Descripción:</strong> todos los documentos y contenidos vistos en este proyecto están encaminados a que el alumnado realice de forma satisfactoria el proyecto final y la interpretación del canon de Pachelbel.</p>\n<p><strong>Licencia de uso:</strong> CC-BY-NC-SA</p>\n<p><img src=\"{{context_path}}/content/resources/Plantilla-de-imagenes-para-posts-del-blog-Vecpho-1.jpg\" width=\"90\" height=\"60\" alt=\"Imagen CC BY NC SA\" style=\"font-weight: bolder; float: left;\" /></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mozmzmlp-cy8zlgw9a</odePageId>
+      <odeBlockId>block-1778420633541-1i36q3lyk</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mozmzmlp-cy8zlgw9a</odePageId>
+          <odeBlockId>block-1778420633541-1i36q3lyk</odeBlockId>
+          <odeIdeviceId>idevice-1778420633540-znd9ksi94</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Viajamos al Barroco musical</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">En esta SdA, el alumnado tendrá que buscar información sobre algunas características de la música en el Barroco, tendrá que hacer dos proyectos en grupo, y tendrá que interpretar con la flauta una obra de esta época.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Sara Varela Prados</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
